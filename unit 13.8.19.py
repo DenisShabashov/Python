@@ -7,6 +7,6 @@ for i in range(tickets):
         total += 990
     elif age >= 25:
         total += 1390
-if total >= 3960:
+if tickets >= 4:
     total -= (total//10)
 print(total)
