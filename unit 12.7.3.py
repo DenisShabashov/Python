@@ -11,3 +11,4 @@ print(deposit)
 max_deposit = max(deposit)
 print("Максимальная сумма, которую вы можете заработать", max_deposit)
 
+
